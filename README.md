@@ -10,4 +10,5 @@ Please file issues and pull requests for this package in this repository rather 
 - [NuGet](https://www.nuget.org/packages/Autofac.Configuration)
 - [Contributing](http://autofac.readthedocs.io/en/latest/contributors.html)
 
-#test 2020.4.7 15:31
+#test 2020.4.7 15:31 本地
+#test 2020.4.7 15.36 online
